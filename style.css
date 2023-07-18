@@ -24,7 +24,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 1080px;
   padding: 20px 0;
 }
 
@@ -192,6 +192,8 @@ body {
   font-weight: bold;
   line-height: 0px;
 }
+
+/* ALERTA */
 
 .alerta {
   position: absolute;
