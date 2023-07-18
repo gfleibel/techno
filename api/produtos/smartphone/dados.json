@@ -1,8 +1,8 @@
 {
   "id": "smartphone",
-  "nome": "Smartphone",
+  "nome": "iPhone 12",
   "preco": 3299,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "descricao": "Descubra a magia do iPhone 12! Super Retina XDR, chip A14 Bionic, 5G, câmera avançada. Durável com Ceramic Shield. Revolução em suas mãos.",
   "estoque": 3,
   "img": "./api/produtos/smartphone/smartphone-foto.jpg",
   "reviews": [

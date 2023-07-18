@@ -1,8 +1,8 @@
 {
   "id": "tablet",
-  "nome": "Tablet",
+  "nome": "iPad",
   "preco": 4399,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "descricao": "Descubra o poder e a versatilidade do iPad! Com tela Retina deslumbrante, desempenho incrível e compatibilidade com a Apple Pencil, você pode criar, trabalhar e se entreter como nunca antes. O iPad é a sua porta para infinitas possibilidades, onde a produtividade e a diversão se encontram.",
   "estoque": 2,
   "img": "./api/produtos/tablet/tablet-foto.jpg",
   "reviews": [

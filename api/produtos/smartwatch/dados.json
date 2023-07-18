@@ -1,8 +1,8 @@
 {
   "id": "smartwatch",
-  "nome": "Smartwatch",
+  "nome": "Apple Watch Series 7",
   "preco": 1599,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "descricao": "Reviva seu estilo com o Apple Watch Series 7! Design elegante, tela maior e resistente. Monitoramento avançado da saúde, novos mostradores e carregamento rápido. Uma experiência única no seu pulso.",
   "estoque": 5,
   "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
   "reviews": [

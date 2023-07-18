@@ -1,20 +1,20 @@
 {
   "id": "speaker",
-  "nome": "Speaker",
+  "nome": "Alexa",
   "preco": 799,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "descricao": "Conheça a Alexa - sua assistente inteligente e pessoal. Com respostas rápidas e precisas, ela toca músicas, controla dispositivos domésticos, fornece informações e muito mais. Simplifique sua vida com a Alexa, a inovação que transforma sua casa em um lar inteligente.",
   "estoque": 3,
   "img": "./api/produtos/speaker/speaker-foto.jpg",
   "reviews": [
     {
       "nome": "Roger",
       "estrelas": 5,
-      "descricao": "Adorei, som de altíssima qualidade."
+      "descricao": "Muito bom! Super prático e tem ótima qualidade de som"
     },
     {
       "nome": "Nathália",
-      "estrelas": 5,
-      "descricao": "Gostei demais!"
+      "estrelas": 3,
+      "descricao": "Não entende quando peço as coisas, mas o som é ótimo!"
     }
   ]
 }

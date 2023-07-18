@@ -1,31 +1,31 @@
 [
   {
     "id": "notebook",
-    "nome": "Notebook",
+    "nome": "Macbook Air",
     "preco": 5999,
     "img": "./api/produtos/notebook/notebook.jpg"
   },
   {
     "id": "smartphone",
-    "nome": "Smartphone",
+    "nome": "iPhone 12",
     "preco": 3299,
     "img": "./api/produtos/smartphone/smartphone.jpg"
   },
   {
     "id": "tablet",
-    "nome": "Tablet",
+    "nome": "iPad",
     "preco": 4399,
     "img": "./api/produtos/tablet/tablet.jpg"
   },
   {
     "id": "smartwatch",
-    "nome": "Smartwatch",
+    "nome": "Apple Watch Series 7",
     "preco": 1599,
     "img": "./api/produtos/smartwatch/smartwatch.jpg"
   },
   {
     "id": "speaker",
-    "nome": "Speaker",
+    "nome": "Alexa",
     "preco": 799,
     "img": "./api/produtos/speaker/speaker.jpg"
   }
