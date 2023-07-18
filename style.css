@@ -280,6 +280,7 @@ body {
 
 .carrinho_remover {
   border: none;
+  background: none;
   font-size: 1rem;
   cursor: pointer;
 }
